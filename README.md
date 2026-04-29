@@ -8,7 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TyreeRobertscc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TyreeRobertscc/azure-network-protocols
+   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
