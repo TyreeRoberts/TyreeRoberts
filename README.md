@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyree, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi there, I'm Tyree, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,5 +18,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/tyree-roberts
+[linkedin]: https://linkedin.com/in/tyree-roberts-53b60b119/
 
