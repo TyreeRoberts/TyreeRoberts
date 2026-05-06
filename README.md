@@ -1,14 +1,34 @@
-<h1>Hi there, I'm Tyree, an <a href="">IT Professional</a></h1>
+<h1>Hi, I'm Tyree, an <a href="https://linkedin.com/in/tyree">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  
-    
-  - https://github.com/TyreeRoberts/ticket-lifecycle
+  - [osTicket: Prerequisites and Installation](https://github.com/TyreeRobertscc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/TyreeRobertscc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/TyreeRobertscc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   
-  - https://github.com/TyreeRoberts/azure-network-protocols
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TyreeRobertscc/azure-network-protocols)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+  
+  
 
 <h2>🤳Connect with me:</h2>
 
